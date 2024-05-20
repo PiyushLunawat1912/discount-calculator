@@ -1,0 +1,87 @@
+/* Google Font Family */
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Poppins&family=Signika:wght@300..700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+  }
+
+  #main-section{
+    width: 500px;
+    height: 550px;
+    margin: 50px auto;
+    position: relative;
+    padding: 20px;
+    border: 2px solid rgb(181, 176, 176);
+    border-radius: 8px;
+    background-color : #f2f2f2;
+    color: rgb(21, 20, 20);
+    box-sizing: border-box;
+    font-family: "Itim", cursive;
+   
+   
+  }
+
+  #main-section h1{
+    text-align: center;
+    padding-bottom: 30px;
+    color: cadetblue
+  }
+
+
+  #main-section p{
+    font-size: x-large;
+    padding-bottom: 30px;
+    color: cadetblue
+
+  }
+
+  #main-section h2{
+   
+    padding-bottom: 30px;
+    color: cadetblue
+  }
+  #i
+
+  #dis{
+    margin-bottom: 20px;
+  }
+
+  #main-section input{
+  width: 400px;
+  padding: 10px;
+    
+  }
+
+  #calculate{
+    border-radius: 20px;
+    padding: 7px;
+    font-size: large;
+
+
+  }
+  #calculate{
+    margin-top: 30px;
+    background:rgb(30, 200, 7);
+    
+  }
+
+  #calculate:hover{
+    background:burlywood;
+  }
+ 
+  #total{
+    padding-top: 30px;
+    color: cadetblue;
+    font-size: larger;
+  }
+  input[type="number"]{
+    border-radius:50px;
+    border: 1px solid;
+
+}
+
+#main-section #Percentage{
+  margin-top: 20px;
+}
